@@ -21,7 +21,7 @@ You can run the app locally to see it in action.
 
 Installation
 Clone the repository
-git clone https://github.com/<your-username>/vue-weather-app.git
+git clone https://github.com/zibasmartynas/vue-weather-app.git
 cd vue-weather-app
 Install dependencies
 npm install
