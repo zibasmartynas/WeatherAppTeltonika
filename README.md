@@ -33,20 +33,20 @@ You can run the app locally to see it in action.
 
 Clone the repository
 
-git clone https://github.com/zibasmartynas/vue-weather-app.git
+`git clone https://github.com/zibasmartynas/vue-weather-app.git`
 
-cd vue-weather-app
+`cd vue-weather-app`
 
 Install dependencies
 
-npm install
+`npm install`
 
 
 ## Development
 
 Start a development server with hot reload:
 
-npm run dev
+`npm run dev`
 
 Open your browser at the URL shown in the terminal (usually http://localhost:5173).
 
@@ -54,7 +54,7 @@ Open your browser at the URL shown in the terminal (usually http://localhost:517
 
 Build the project
 
-npm run build
+`npm run build`
 
 This will generate a dist folder with production-ready files.
 
@@ -62,11 +62,11 @@ Serve using http-server
 
 Install http-server globally if you don’t have it:
 
-npm install -g http-server
+`npm install -g http-server`
 
 Serve the dist folder:
 
-http-server dist
+`http-server dist`
 
 Open your browser at the URL shown in the terminal (usually http://localhost:8080).
 
