@@ -1,4 +1,4 @@
-Vue Weather App
+# Vue Weather App
 
 A simple Weather App built with Vue 3 Composition API. The app fetches current weather data using the OpenWeatherMap API and allows users to add, remove, and search forecasts. Forecasts are stored in localStorage and automatically updated every 5 minutes.
 
