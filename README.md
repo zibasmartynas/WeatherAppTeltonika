@@ -58,7 +58,7 @@ Build the project
 
 This will generate a dist folder with production-ready files.
 
-Serve using http-server
+### Serve using http-server
 
 Install http-server globally if you don’t have it:
 
